@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Julio Magne 👋</h1>
+<h1 align="center">Hola, soy Josue 👋</h1>
 <h3 align="center">Desarrollador Full Stack | Especialista en UX/UI 🎨 | Apasionado por la tecnología 🚀</h3>
 
 ---
