@@ -28,6 +28,7 @@
 | <img src="https://cdn.simpleicons.org/express/000000" width="18"/> **Express** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%) |
 | <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> **MongoDB** | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (60%) |
 | <img src="https://cdn.simpleicons.org/java/007396" width="18"/> **Java** | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ (50%) |
+| <img src="https://cdn.simpleicons.org/next.js/007396" width="18"/> **Next.js** | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ (50%) |
 
 
 
@@ -58,7 +59,7 @@
 ### 📫 Contáctame 
 
 [<img src="https://cdn.simpleicons.org/linkedin/0077B5" width="20"/> LinkedIn](https://www.linkedin.com/in/jujomago/) 
-[<img src="https://cdn.simpleicons.org/gmail/D14836" width="20"/> Email](mailto:tuemail@gmail.com) 
+[<img src="https://cdn.simpleicons.org/gmail/D14836" width="20"/> Email](mailto:jujomago@gmail.com) 
 
 ---
 
