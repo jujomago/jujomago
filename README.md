@@ -19,20 +19,23 @@
 
 | Tecnología | Dominio |
 |------------|---------|
-| <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18"/> **JavaScript** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%) |
+| <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18"/> **JavaScript** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (93%) |
 | <img src="https://cdn.simpleicons.org/typescript/3178C6" width="18"/> **TypeScript** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%) |
-| <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> **React** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (95%) |
+| <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> **React** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%) |
+| <img src="https://cdn.simpleicons.org/postgresql/4479A1" width="18"/> **PostgreSQL** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%) |
+| <img src="https://cdn.simpleicons.org/mysql/4479A1" width="18"/> **MySQL** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%) |
 | <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="18"/> **Node.js** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%) |
-| <img src="https://cdn.simpleicons.org/express/000000" width="18"/> **Express** | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (60%) |
-| <img src="https://cdn.simpleicons.org/java/007396" width="18"/> **Java** | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (60%) |
-| <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> **MongoDB** | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ (50%) |
-| <img src="https://cdn.simpleicons.org/mysql/4479A1" width="18"/> **MySQL** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%) |
+| <img src="https://cdn.simpleicons.org/express/000000" width="18"/> **Express** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%) |
+| <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> **MongoDB** | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (60%) |
+| <img src="https://cdn.simpleicons.org/java/007396" width="18"/> **Java** | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ (50%) |
+
+
 
 #### 🎨 Diseño y UX/UI 
 
 | Tecnología | Dominio |
 |------------|---------|
-| <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="18"/> **Photoshop** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (95%) |
+| <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="18"/> **Photoshop** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%) |
 | <img src="https://cdn.simpleicons.org/figma/F24E1E" width="18"/> **Figma** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%) |
 
 #### 📚 Otras herramientas 
